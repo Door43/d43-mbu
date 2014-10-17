@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbu:home|Door43 (mbu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbu|d43-mbu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbu/archive/master.zip|d43-mbu.zip]]
+
+**Recent Changes**
+{{changes>ns = mbu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbu|Ethnologue data]]
+
